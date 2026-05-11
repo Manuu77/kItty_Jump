@@ -11,7 +11,7 @@ size = Vector2(14, 16)
 size = Vector2(14, 16)
 
 [node name="Personaje" type="CharacterBody2D" unique_id=743767887 node_paths=PackedStringArray("animacion", "area_2d")]
-collision_layer = 4
+collision_layer = 5
 script = ExtResource("1_yv5yb")
 animacion = NodePath("Animacion")
 area_2d = NodePath("Area2D")
